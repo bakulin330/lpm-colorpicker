@@ -1,0 +1,7 @@
+{
+  "name": "lpm-colorpicker",
+  "description": "LPmotor colorpiker",
+  "main": [
+    "lpm-colorpicker.js"
+  ]
+}
