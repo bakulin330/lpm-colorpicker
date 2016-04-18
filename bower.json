@@ -3,5 +3,6 @@
   "description": "LPmotor colorpiker",
   "main": [
     "lpm-colorpicker.js"
-  ]
+  ],
+  "version": "0.0.2"
 }
